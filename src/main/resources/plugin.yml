@@ -1,4 +1,4 @@
-name: Easter Mob Head
+name: EasterMobHead
 version: ${project.version}
 main: com.nunofacha.eastermobhead.Main
 api-version: 1.16
