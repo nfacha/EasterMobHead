@@ -1,0 +1,7 @@
+name: Easter Mob Head
+version: ${project.version}
+main: com.nunofacha.eastermobhead.Main
+api-version: 1.16
+prefix: EMH
+authors: [ Facha ]
+website: nunofacha.com
