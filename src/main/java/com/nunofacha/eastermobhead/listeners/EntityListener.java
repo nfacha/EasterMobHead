@@ -35,7 +35,7 @@ public class EntityListener implements Listener {
             }
             if(n == 1){
                 Main.logger.info("Spawning with easter chick");
-                zombie.getEquipment().setHelmet(getEasterItemStack());
+                zombie.getEquipment().setHelmet(getEasterEggChickStack());
                 zombie.getEquipment().setHelmetDropChance(75);
             }
         }
