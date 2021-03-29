@@ -28,7 +28,7 @@ public class EntityListener implements Listener {
                 return;
             }
             int n = r.nextInt(100);
-            if(n <= 10){
+            if(n <= 5){
                 Main.logger.info("Spawning with easter egg head");
                 zombie.getEquipment().setHelmet(getEasterItemStack());
                 zombie.getEquipment().setHelmetDropChance(75);
